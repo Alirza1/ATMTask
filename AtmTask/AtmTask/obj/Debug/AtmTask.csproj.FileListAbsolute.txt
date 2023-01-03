@@ -1,0 +1,16 @@
+C:\Users\alirz\source\repos\AtmTask\AtmTask\obj\Debug\AtmTask.csproj.AssemblyReference.cache
+C:\Users\alirz\source\repos\AtmTask\AtmTask\obj\Debug\AtmTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\alirz\source\repos\AtmTask\AtmTask\obj\Debug\App.g.cs
+C:\Users\alirz\source\repos\AtmTask\AtmTask\obj\Debug\AtmTask_MarkupCompile.cache
+C:\Users\alirz\source\repos\AtmTask\AtmTask\bin\Debug\AtmTask.exe.config
+C:\Users\alirz\source\repos\AtmTask\AtmTask\bin\Debug\AtmTask.exe
+C:\Users\alirz\source\repos\AtmTask\AtmTask\bin\Debug\AtmTask.pdb
+C:\Users\alirz\source\repos\AtmTask\AtmTask\obj\Debug\Views\MainWindow.g.cs
+C:\Users\alirz\source\repos\AtmTask\AtmTask\obj\Debug\AtmTask_MarkupCompile.lref
+C:\Users\alirz\source\repos\AtmTask\AtmTask\obj\Debug\Views\MainWindow.baml
+C:\Users\alirz\source\repos\AtmTask\AtmTask\obj\Debug\AtmTask.g.resources
+C:\Users\alirz\source\repos\AtmTask\AtmTask\obj\Debug\AtmTask.Properties.Resources.resources
+C:\Users\alirz\source\repos\AtmTask\AtmTask\obj\Debug\AtmTask.csproj.GenerateResource.cache
+C:\Users\alirz\source\repos\AtmTask\AtmTask\obj\Debug\AtmTask.csproj.CoreCompileInputs.cache
+C:\Users\alirz\source\repos\AtmTask\AtmTask\obj\Debug\AtmTask.exe
+C:\Users\alirz\source\repos\AtmTask\AtmTask\obj\Debug\AtmTask.pdb
